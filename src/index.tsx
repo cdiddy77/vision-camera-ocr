@@ -46,7 +46,7 @@ type TextBlock = {
 
 type Text = {
   text: string;
-  blocks: TextBlock[];
+  blocks: { [key: string]: TextBlock[] };
 };
 
 export type OCRFrame = {
