@@ -60,12 +60,12 @@
     "pod-install": "^0.1.38",
     "prettier": "^2.0.5",
     "react": "18.2.0",
-    "react-native": "0.72.5",
+    "react-native": "0.73.4",
     "react-native-builder-bob": "^0.18.0",
     "release-it": "^16.1.3",
     "typescript": "^5.1.6",
-    "react-native-vision-camera": "^3.3.1",
-    "react-native-worklets-core": "^0.2.2"
+    "react-native-vision-camera": "3.8.2",
+    "react-native-worklets-core": "0.2.4"
   },
   "peerDependencies": {
     "react": "*",
